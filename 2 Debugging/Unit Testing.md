@@ -1,0 +1,1 @@
+Si tratta di testare le possibili parte autonome di un software, ad esempio nella programmazione ad oggetti, una singola Classe oppure ancora più nello specifico un metodo di una classe, commentando le parti di codice da escludere, oppure copiarle su un altro ambiente

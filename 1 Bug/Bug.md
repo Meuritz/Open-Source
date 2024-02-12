@@ -1,0 +1,3 @@
+Un Bug è un errore o una "falla", di un software che causa un comportamento inaspettato di quest'ultimo, causato da un errore nella programmazione nella maggior parte dei casi, tuttavia il termine bug nasce quando in uno dei primi calcolatori l'[[Harvard Mark II]] ,  quando un insetto intrufolatosi al suo interno causo un corto circuito, il processo che si usa per trovare e "sistemare" i Bug si chiama [[Debugging]] 
+
+I bug possono andare dalla cosa più "semplice" come la scorretta visualizzazione a schermo di un elemento di un software, ad errori che danneggiano l'hardware stesso oppure nei casi più gravi, possono recare danni anche a persone fisiche
